@@ -41,7 +41,8 @@ The extracted data is stored in CSV format for further analysis.
 ✔️ Structured data collection  
 
 ---
-
+OUTOUT : 
+![Alt text](https://github.com/dinutanwar/CodeAlpha_AmazonWebScraper/blob/edaabdaba12a126c1810f73c2af4cc651c5b4176/image/Screenshot%202026-05-12%20140520.png)
 # 🛠️ Technologies Used
 
 | Technology | Purpose |
