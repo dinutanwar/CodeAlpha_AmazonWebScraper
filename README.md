@@ -67,3 +67,5 @@ CodeAlpha_AmazonWebScraper/
 ├── requirements.txt
 ├── README.md
 └── screenshots/
+
+Linkdin Profile Link : linkedin.com/in/dinesh-tanwar-426a333a9
